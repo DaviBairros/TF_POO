@@ -1,0 +1,12 @@
+package Enums;
+
+public enum DiaSemana {
+
+    SEGUNDA,
+    TERCA,
+    QUARTA,
+    QUINTA,
+    SEXTA,
+    SÁBADO,
+    DOMINGO
+}
